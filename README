@@ -1,0 +1,11 @@
+input your own google account in Constant class and facebook account in facebookLoginOutTest
+to run the test facebook integration test by default is disabled, comment @ignore in
+facebookLoginOutTest to re-enable the test. Run AllTest test suite to run all the tests.
+
+project structures
+src/java/project/
+Constants: provide constants value used in the test
+Util: provide helper methods for the test
+
+test/java
+test suites
